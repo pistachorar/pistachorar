@@ -8,7 +8,6 @@
 </p>
 
 
-### I am a Systems Engineer Specialist at Infosys
 - 🌱 I’m currently learning Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
