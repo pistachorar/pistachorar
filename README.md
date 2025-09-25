@@ -7,13 +7,6 @@
   <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
 </p>
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
-</p>
-
-<br>
-
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Systems Engineer Specialist at Infosys
 - 🌱 I’m currently learning Development.
